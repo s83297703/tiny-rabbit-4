@@ -19,19 +19,19 @@
   "admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
 
-  "yandex_banner":"R-M-DEMO-320x100",
-  "yandex_inter":"R-M-DEMO-interstitial",
-  "yandex_native":"R-M-DEMO-native-i",
-  "yandex_reward":"demo-rewarded-yandex",
+  "yandex_banner":"R-M-2498431-1",
+  "yandex_inter":"R-M-2498431-3",
+  "yandex_native":"R-M-2498431-2",
+  "yandex_reward":"R-M-2498431-4",
 
 
-  "show_ad_dialog":"yes",
+  "show_ad_dialog":"no",
   "ads_picture":"https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw",
   "ads_link":"https://play.google.com/store/apps/details?id=org.telegram.messenger",
-  "banner_network_choice":"admob",
-  "interstisial_network_choice":"admob",
-  "reward_network_choice":"admob",
-  "native_network_choice":"admob"
+  "banner_network_choice":"yandex",
+  "interstisial_network_choice":"yandex",
+  "reward_network_choice":"yandex",
+  "native_network_choice":"yandex"
 
 
 
