@@ -28,10 +28,10 @@
   "show_ad_dialog":"no",
   "ads_picture":"https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw",
   "ads_link":"https://play.google.com/store/apps/details?id=org.telegram.messenger",
-  "banner_network_choice":"yandex",
-  "interstisial_network_choice":"yandex",
-  "reward_network_choice":"yandex",
-  "native_network_choice":"yandex"
+  "banner_network_choice":"unity",
+  "interstisial_network_choice":"unity",
+  "reward_network_choice":"unity",
+  "native_network_choice":"unity"
 
 
 
